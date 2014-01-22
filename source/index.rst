@@ -13,6 +13,7 @@ Contents:
 
    installation/index
    plone-theme/index
+   zchl-shop/index
 
 Indices und Tabellen
 ==================
