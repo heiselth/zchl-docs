@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 1
 
    installation/index
-
+   plone-theme/index
 
 Indices und Tabellen
 ==================

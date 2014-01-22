@@ -7,6 +7,9 @@ Repositories hinzufuegen
 
 .. todo:: YAST-Repositories hinzufuegen
 
+Für einige der Repositories ist es erforderlich, den LDAP-Account einzugeben.
+Dabei ist der Account-Name ohne Domain-Angabe anzugeben.
+
 Pakete installieren
 -------------------
 
