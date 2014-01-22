@@ -18,5 +18,6 @@ Im home-Verzeichnis von plone zwei Dateien anlegen aus `Git-Konfiguration <https
 Befehle
 -------
 
-``git init``
-    
+``git init`` erstellen eines initialen Repository lokal
+
+weitere Befehle auf `Grundlegende Git-Befehle <https://www.veit-schiele.de/dienstleistungen/technische-dokumentation/git>`_. 
