@@ -13,15 +13,28 @@ Dabei ist der Account-Name ohne Domain-Angabe anzugeben.
 Pakete installieren
 -------------------
 
-Die folgenden Pakete sind mit YAST zu installieren:
+Sofern neue YAST-Pakete installiert werden, die in Python zur Verfügung stehen
+sollen, ist nach der Paket-Installation auch Python neu zu installieren.
+
+Die folgenden Systempakete benötigt Plone. Diese sind mit YAST zu
+installieren:
 
 * ``gcc``
 * ``gcc c++``
 * ``make``
 * ``zlib-devel``
 * ``openssl-devel``
-* ``readline``
-* ``git``
 * ``libxml2-devel``
 * ``libxslt-devel``
+
+Folgende YAST-Pakete erleichtern die Entwickklung:
+
+* ``git``
+* ``readline``
+
+Für LDAP werden folgende Pakete benötigt:
+
+* ``openldap2-devel``
+* ``libldap-2_X-Y``
+* ``libopenssl-devel``
 
